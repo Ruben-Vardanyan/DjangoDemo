@@ -1,0 +1,13 @@
+body {
+    padding: 0 0 0 15px;
+    margin: 0;
+    font-family: 'Lobster';
+}
+div{
+    box-sizing: border-box;
+}
+h1 a {
+    color: #FCA205;
+    text-decoration: none;
+
+}
